@@ -1,6 +1,12 @@
 ## Kavita's Portfolio
 
-### Project 1: [Analysis: Avocado(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/avocado-analysis-r)
+### Project 1: [Analysis: Avocado(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-analysis-r)
+#### Project Overview
+##### Analyze data to gain insight into
+1. How avocado price and Volume vary with time?
+2. How price and sale vary with different type of avocado's?
+3. How avocado's sales and prices vary with different cities?
+4. Which type of avocado's companies need to stock more?
 
 ### Project 2: [Analysis: Bellabeat Case Study(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/bellabeat-case-study-r)
 
@@ -8,7 +14,7 @@
 
 ### Project 4: [ML: Classification Models(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-ofall-classification-models-r)
 
-### Project 5: [ML: Regression Models(R): Project Overview]()
+### Project 5: [ML: Regression Models(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-of-all-regression-models-r#Author:-Kavita-Khandelwal)
 
 ### Project 6: [Forecasting(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/avocado-price-forecasting-r)
 
