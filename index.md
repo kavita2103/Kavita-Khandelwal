@@ -26,10 +26,19 @@
 * Using above models, I was able to get the best model to predict the type of avocado with highest accuracy 93.32% and Area Under the Curve(AUC) 98.25% for Generalized Boosted Model. 
 * Or, If User wants to go with the highest Sensitivity 95.18%, they can choose XGBoost.
 
-### Project 5: [ML: Regression Models(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-of-all-regression-models-r#Author:-Kavita-Khandelwal)
+### Project 5: [ML: Regression Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-of-all-regression-models-r#Author:-Kavita-Khandelwal)
 * Regression analysis is a statistical technique that involves finding the relation between a dependent variable and one or more independent variables. 
+* In this project, I build regression models to know the relation between the avocado price and volume(total sale). Used Regression Models are:
+1. Linear Regression
+2. Decision Tree
+3. Random Forest
+4. KNN/ K-Nearest Neighbors
+5. Extreme Gradient Boosting (XGBoost)
+6. Support Vector Regression (SVR)
+* I was able to get best model for Conventional Avocado is XGBoost Model and for Organic Avocado is Linear Regression Model.
 
-### Project 6: [Forecasting(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/avocado-price-forecasting-r)
+### Project 6: [Forecasting(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-price-forecasting-r)
+
 
 ### Project 7: [Titanic - Machine Learning from Disaster(Python): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
 
