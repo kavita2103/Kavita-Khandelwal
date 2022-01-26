@@ -47,7 +47,9 @@
 5. ARIMA (Auto Regressive Integrated Moving Average)
 * For this project, I Forecast organic and conventional avocado's prices for next 12 months.
 
-### Project 7: [Titanic - Machine Learning from Disaster(Python): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
+### Project 7: [Titanic - Machine Learning from Disaster(Python):](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
+* In this project, I did data cleaning, data analysis and classification using 'Python' programming language.
+* 
 
 ### Project 8: [Covid-19 Vaccination(Tableau): Project Overview](https://public.tableau.com/app/profile/kavita3687/viz/Covid-19VaccinationdatafromWHOandourworldindata_orgupto1042021/Dashboard1)
 
