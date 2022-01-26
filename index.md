@@ -1,31 +1,33 @@
 ## Kavita's Portfolio
 
 ### Project 1: [Analysis: Avocado(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-analysis-r)
-* In this project, I did data cleaning, data analysis and data visualization using the statistical programming language 'R'.
-* This project gives some interesting insights which can make consumers and producers life easy.
-* some interesting insights are:
-1. Conventional avocado are less expensive comparative to organic avocado. 
-2. Average total volume sale of conventional avocado is far more than Organic avocado. It make sense because of their cost difference.
-3. The lowest prices are in PhoenixTuscon and the maximum prices city is Chicago for conventional avocado. 
-4. The minimum prices are in CincinnatiDayton and the maximum prices city is San Francisco for organic avocado.
-5. Spring and Winter seasons has more sales comparative to Autumn and Summer seasons. During this time, demand is more in Spring and Winter seasons, so company need to stock in advance.
-6. Average price rise in the Autumn season and the down in the Winter season for both type of avocados, so buy before Autum season comes.
-7.  Most Avocado loving city is Los Angeles.
-8.  An increase in the volume of avocado tends to reduce the price for both type of Avocado.
-9.  PLU 4225, PLU 4046 and small bag sales are 90.5% of total sale so companies need to stock more.
+For this example project I did cleaning, analysis and visualization of data using statistical programming language 'R'. I found some interesting insights which can make lives of consumers and producers easy.
+
+Example insights:
+ 1. Conventional avocado are less expensive comparative to organic avocado. 
+ 1. Average total volume sale of conventional avocado is far more than Organic avocado. It make sense because of their cost difference.
+ 3. The lowest prices are in PhoenixTuscon and the maximum prices city is Chicago for conventional avocado. 
+ 4. The minimum prices are in CincinnatiDayton and the maximum prices city is San Francisco for organic avocado.
+ 5. Spring and Winter seasons has more sales comparative to Autumn and Summer seasons. During this time, demand is more in Spring and Winter seasons, so company need to stock in advance.
+ 6. Average price rise in the Autumn season and the down in the Winter season for both type of avocados, so buy before Autum season comes.
+ 7.  Most Avocado loving city is Los Angeles.
+ 8.  An increase in the volume of avocado tends to reduce the price for both type of Avocado.
+ 9.  PLU 4225, PLU 4046 and small bag sales are 90.5% of total sale so companies need to stock more.
 
 
-### Project 2: [Analysis: Bellabeat Case Study(R): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/bellabeat-case-study-r)
-* In this project, I did data cleaning, data analysis and data visualization using the statistical programming language 'R'.
-* On the basis of the analysis, these are my recommendations to the marketing team members:
+### Project 2: [Analysis: Bellabeat Case Study(R)](https://www.kaggle.com/kavitakhandelwal1234/bellabeat-case-study-r)
+For this example project I did cleaning, analysis and visualization of data using statistical programming language 'R'.
+
+On the basis of the analysis, these are my recommendations to the marketing team members:
 1.  Bellabeat can improve the product by sending reminder to costumers, so they will get motivation to reach their goal.
 2. Send people sleep notifications that 6 to 8 hours sleeping habit is good and it can also help to improve their health.
 3. Motivate people to do more exercise on Monday, Friday and Sunday.
 4. The most important thing is when they do advertisement for fitbit, they have to show that fitbit has reminder feature so customers can set their goals according to their health condition.
 
 ### Project 3: [ML: Classification Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-ofall-classification-models-r)
-* Classification is a core technique in the fields of data science and machine learning that is used to predict the categories to which data should belong. 
-* For this project, I implemented the following Classification Models to predict the types of avocado using the statistical programming language 'R':
+Classification is a core technique in the fields of data science and machine learning that is used to predict the categories to which data should belong. 
+
+For this example project, I implemented the following Classification Models to predict the types of avocado using the statistical programming language 'R':
  1. Logistic Regression
  2. Decision Tree
  3. Random Forest
@@ -37,33 +39,38 @@
  9. LightGBM
  10. CatBoost
  11. Naive Bayes
-* Using above models, I was able to get the best model to predict the type of avocado with highest accuracy 93.32% and Area Under the Curve(AUC) 98.25% for Generalized Boosted Model. 
-* Or, If User wants to go with the highest Sensitivity 95.18%, they can choose XGBoost.
+
+Using above models, I was able to get the best model to predict the type of avocado with highest accuracy 93.32% and Area Under the Curve(AUC) 98.25% for Generalized Boosted Model. Or, If User wants to go with the highest Sensitivity 95.18%, they can choose XGBoost.
 
 ### Project 4: [ML: Regression Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-of-all-regression-models-r#Author:-Kavita-Khandelwal)
-* Regression analysis is a statistical technique that involves finding the relation between a dependent variable and one or more independent variables. 
-* In this project, I implemented the following Regression Models to know the relation between the avocado price and volume(total sale) using the statistical programming language 'R':
+Regression analysis is a statistical technique that involves finding the relation between a dependent variable and one or more independent variables. 
+
+In this example project, I implemented the following Regression Models to know the relation between the avocado price and volume(total sale) using the statistical programming language 'R':
 1. Linear Regression
 2. Decision Tree
 3. Random Forest
 4. KNN/ K-Nearest Neighbors
 5. Extreme Gradient Boosting (XGBoost)
 6. Support Vector Regression (SVR)
-* We can choose the best model by lowest root mean squared value among all of these models. Here, I get best model for Conventional Avocado is XGBoost Model and for Organic Avocado is Linear Regression Model.
+
+We can choose the best model by lowest root mean squared value among all of these models. Here, I get best model for Conventional Avocado is XGBoost Model and for Organic Avocado is Linear Regression Model.
 
 ### Project 5: [Forecasting(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-price-forecasting-r)
-* Time series forecasting is the method of exploring and analyzing time-series data recorded or collected over a set period of time. This technique is used to forecast values and make future predictions.
-* In this project, I implemented the following time series forecasting techniques using the statistical programming language 'R': 
+Time series forecasting is the method of exploring and analyzing time-series data recorded or collected over a set period of time. This technique is used to forecast values and make future predictions.
+
+In this example project, I implemented the following time series forecasting techniques using the statistical programming language 'R': 
 1. Average method 
 2. Naïve method
 3. Seasonal naïve method
 4. Drift method
 5. ARIMA (Auto Regressive Integrated Moving Average)
-* For this project, I Forecast organic and conventional avocado's prices for next 12 months.
+
+For this project, I Forecast organic and conventional avocado's prices for next 12 months.
 
 ### Project 6: [Titanic - Machine Learning from Disaster(Python):](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
-* In this project, I did data cleaning, data analysis and classification using 'Python' programming language.
-* The following Classification Models used to predict the survived people:
+For this example project I did cleaning, analysis, visualization and classification using 'Python' programming language.
+
+The following Classification Models used to predict the survived people:
  1. Logistic Regression
  2. KNN/ K-Nearest Neighbors
  3. Random Forest
