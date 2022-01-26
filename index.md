@@ -75,10 +75,9 @@ The following Classification Models used to predict the survived people:
  2. KNN/ K-Nearest Neighbors
  3. Random Forest
 
-### Project 7: [Covid-19 Vaccination(Tableau): Project Overview](https://public.tableau.com/app/profile/kavita3687/viz/Covid-19VaccinationdatafromWHOandourworldindata_orgupto1042021/Dashboard1)
-* I have collected data from WHO (World Health Organization) site upto 10/4/2021.
-* I have cleaned data in spreadsheet.
-* In this project, I have done data analysis on Tableau. Tableau dashboard is showing some interesting insights, which are: (available data upto 10/4/2021)
+### Project 7: [Covid-19 Vaccination(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/Covid-19VaccinationdatafromWHOandourworldindata_orgupto1042021/Dashboard1)
+In this project, I collected data from WHO (World Health Organization) site upto 10/4/2021 and then cleaned it in a spreadsheet.
+I used Tableau for data analysis. Tableau dashboard showed some interesting insights:
 1. Total vaccinations are 6,188,872,751. 
 2. People fully vaccinated are 2,577,548,235.
 3. Percentage of fully vaccinated people for each country.
@@ -86,7 +85,7 @@ The following Classification Models used to predict the survived people:
 5. Monthly Vaccinations trend per continent. 
 
 
-### Project 8: [Avocado Analysis(Tableau): Project Overview](https://public.tableau.com/app/profile/kavita3687/viz/AvocadoAnalysis_16337389953460/Dashboard1)
+### Project 8: [Avocado Analysis(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/AvocadoAnalysis_16337389953460/Dashboard1)
 * I have imported data from Kaggle site.
 * In this project, I have done data analysis on Tableau. Tableau dashboard is showing some interesting insights, which are: 
 1. Top 10 cities consumes the most avocados.
@@ -97,7 +96,7 @@ The following Classification Models used to predict the survived people:
 6. Yearly - total avocado sales.
 7. Percentage difference in total avocado sales from 2015.
 
-### Project 9: [World Happiness(Tableau): Project Overview](https://public.tableau.com/app/profile/kavita3687/viz/WorldHappinessdatafromGoogleCareerCertificates/Dashboard4)
+### Project 9: [World Happiness(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/WorldHappinessdatafromGoogleCareerCertificates/Dashboard4)
 * Data collected from Google Career Certificates.
 * In this project, I have done data analysis on Tableau. Tableau dashboard is showing some interesting insights, which are: 
 1. Happiness score per country
