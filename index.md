@@ -77,29 +77,28 @@ The following Classification Models used to predict the survived people:
 
 ### Project 7: [Covid-19 Vaccination(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/Covid-19VaccinationdatafromWHOandourworldindata_orgupto1042021/Dashboard1)
 In this project, I collected data from WHO (World Health Organization) site upto 10/4/2021 and then cleaned it in a spreadsheet.
-I used Tableau for data analysis. Tableau dashboard showed some interesting insights:
-1. Total vaccinations are 6,188,872,751. 
-2. People fully vaccinated are 2,577,548,235.
-3. Percentage of fully vaccinated people for each country.
-4. Percent of fully vaccinated people by continents.
-5. Monthly Vaccinations trend per continent. 
+I used Tableau for data visualization. Key highlights:
+1. Used Text Tables to visualize Total vaccinated and fully vaccinated people.
+3. Used Geo Maps to visualize Vaccinations around the world.
+4. Used Bar Charts to visualize Percent of fully vaccinated people by continents.
+5. Used Line Charts to visualize Monthly Vaccinations trend per continent. 
 
 
 ### Project 8: [Avocado Analysis(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/AvocadoAnalysis_16337389953460/Dashboard1)
-* I have imported data from Kaggle site.
-* In this project, I have done data analysis on Tableau. Tableau dashboard is showing some interesting insights, which are: 
-1. Top 10 cities consumes the most avocados.
-2. Yearly - price and volume by month.
-3. Week correlation between avg. price and total sale.
-4. Yearly - average avocado price.
-5. Percentage Difference in Avg. Average Avocado Price from 2015.
-6. Yearly - total avocado sales.
-7. Percentage difference in total avocado sales from 2015.
+For this project, I collected data from Kaggle site.
+I used Tableau for data visualization. Key highlights:
+1. Used Bubbles Chart to visualize Top 10 Cities Consumes the Most Avocados.
+2. Used Dual-Axis Combo Chart to visualize price and volume by month for each year.
+3. Used Scatter Charts to visualize Week correlation between avg. price and total sale.
+4. Used Bar Charts to visualize average avocado price for each year.
+5. Used Bar Charts to visualize percentage difference in avocado price from 2015.
+6. Used Bar Charts to visualize total avocado sales for each year.
+7. Used Bar Charts to visualize  percentage difference in total avocado sales from 2015.
 
 ### Project 9: [World Happiness(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/WorldHappinessdatafromGoogleCareerCertificates/Dashboard4)
-* Data collected from Google Career Certificates.
-* In this project, I have done data analysis on Tableau. Tableau dashboard is showing some interesting insights, which are: 
-1. Happiness score per country
-2. World happiness per year (2015 - 2017).
-3. Difference in happiness score from 2015.
-4. Scatter diagram happiness vs. Population, GDP, Family, Freedom, Generosity, health and trust. 
+For this project, I collected data from Google Career Certificates.
+I used Tableau for data visualization. Key highlights:
+1. Used Geo Maps to visualize World Happiness rank and score for each country.
+2. Used Bar Chart and Text Tables to visualize World happiness score by year.
+3. Used Bar Charts to visualize Difference in happiness score from 2015.
+4. Used Scatter Charts to visualize happiness vs. Population, GDP, Family, Freedom, Generosity, health and trust. 
