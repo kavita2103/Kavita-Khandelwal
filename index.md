@@ -11,7 +11,7 @@
 
 ### Project 3: [ML: Classification Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-ofall-classification-models-r)
 * Classification is a core technique in the fields of data science and machine learning that is used to predict the categories to which data should belong. 
-* For this project, I build models to predict the types of avocado. Used Classification models are:
+* For this project, I implemented the following Classification Models to predict the types of avocado using the statistical programming language 'R':
  1. Logistic Regression
  2. Decision Tree
  3. Random Forest
@@ -28,17 +28,24 @@
 
 ### Project 5: [ML: Regression Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-of-all-regression-models-r#Author:-Kavita-Khandelwal)
 * Regression analysis is a statistical technique that involves finding the relation between a dependent variable and one or more independent variables. 
-* In this project, I build regression models to know the relation between the avocado price and volume(total sale). Used Regression Models are:
+* In this project, I implemented the following Regression Models to know the relation between the avocado price and volume(total sale) using the statistical programming language 'R':
 1. Linear Regression
 2. Decision Tree
 3. Random Forest
 4. KNN/ K-Nearest Neighbors
 5. Extreme Gradient Boosting (XGBoost)
 6. Support Vector Regression (SVR)
-* I was able to get best model for Conventional Avocado is XGBoost Model and for Organic Avocado is Linear Regression Model.
+* We can choose the best model by lowest root mean squared value among all of these models. Here, I get best model for Conventional Avocado is XGBoost Model and for Organic Avocado is Linear Regression Model.
 
 ### Project 6: [Forecasting(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-price-forecasting-r)
-
+* Time series forecasting is the method of exploring and analyzing time-series data recorded or collected over a set period of time. This technique is used to forecast values and make future predictions.
+* In this project, I implemented the following time series forecasting techniques using the statistical programming language 'R': 
+1. Average method 
+2. Naïve method
+3. Seasonal naïve method
+4. Drift method
+5. ARIMA (Auto Regressive Integrated Moving Average)
+* For this project, I Forecast organic and conventional avocado's prices for next 12 months.
 
 ### Project 7: [Titanic - Machine Learning from Disaster(Python): Project Overview](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
 
