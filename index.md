@@ -3,20 +3,17 @@
 ### Project 1: [Analysis: Avocado(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-analysis-r)
 For this example project I did cleaning, analysis and visualization of data using statistical programming language 'R'. I found some interesting insights which can make lives of consumers and producers easy.
 
-Example insights:
- 1. Conventional avocado are less expensive comparative to organic avocado. 
- 1. Average total volume sale of conventional avocado is far more than Organic avocado. It make sense because of their cost difference.
- 3. The lowest prices are in PhoenixTuscon and the maximum prices city is Chicago for conventional avocado. 
- 4. The minimum prices are in CincinnatiDayton and the maximum prices city is San Francisco for organic avocado.
- 5. Spring and Winter seasons has more sales comparative to Autumn and Summer seasons. During this time, demand is more in Spring and Winter seasons, so company need to stock in advance.
- 6. Average price rise in the Autumn season and the down in the Winter season for both type of avocados, so buy before Autum season comes.
- 7.  Most Avocado loving city is Los Angeles.
- 8.  An increase in the volume of avocado tends to reduce the price for both type of Avocado.
- 9.  PLU 4225, PLU 4046 and small bag sales are 90.5% of total sale so companies need to stock more.
+I analyzed data to gain insights into:
 
+1. How avocado price and volume vary with time?
+2. How price and sales vary with different type of avocado?
+3. Which size of bags companies need to stock?
+4. How prices vary in different seasons?
+5. Which season is best to buy avocado for consumers?
+6. How avocado sales and prices vary with different cities?
 
 ### Project 2: [Analysis: Bellabeat Case Study(R)](https://www.kaggle.com/kavitakhandelwal1234/bellabeat-case-study-r)
-For this example project I did cleaning, analysis and visualization of data using statistical programming language 'R'.
+For this example project I did cleaning, analysis and visualization of data using statistical programming language 'R'. I Focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices and by these insights I made a marketing strategy. 
 
 On the basis of the analysis, these are my recommendations to the marketing team members:
 1.  Bellabeat can improve the product by sending reminder to costumers, so they will get motivation to reach their goal.
