@@ -62,7 +62,7 @@ In this example project, I implemented the following time series forecasting tec
 4. Drift method
 5. ARIMA (Auto Regressive Integrated Moving Average)
 
-For this project, I Forecast organic and conventional avocado's prices for next 12 months.
+For this project, I Forecast organic and conventional avocado prices for next 12 months.
 
 ### Project 6: [Titanic - Machine Learning from Disaster(Python):](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
 For this example project I did cleaning, analysis, visualization and classification using 'Python' programming language.
