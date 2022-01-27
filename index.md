@@ -7,7 +7,7 @@ I analyzed data to gain insights into:
 
 1. How avocado price and volume vary with time?
 2. How price and sales vary with different type of avocado?
-3. Which size of bags companies need to stock?
+3. Which size of bags companies need to stock more?
 4. How prices vary in different seasons?
 5. Which season is best to buy avocado for consumers?
 6. How avocado sales and prices vary with different cities?
