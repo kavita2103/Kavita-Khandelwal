@@ -3,8 +3,8 @@
 ### Project 1: [Analysis and ML (Regression Models): House prices (Python)](https://www.kaggle.com/code/kavitakhandelwal1234/analysis-house-prices-and-regression)
 For this example project I did data cleaning, analysis and visualization of data using the ‘Python’ programming language. 
 * I found interesting insights about what factors affect housing prices.
-* I built Regression Models to know the relation between the home prices and other independent variables. 
-* Developed Pearson’s Correlation matrix using a heatmap to find out strong correlation.
+* I built Regression Models to know the relationship between the home prices and other independent variables. 
+* Developed Pearson’s Correlation matrix using a heatmap to find strong correlation.
 * Achieved the best result for Root Mean Squared Error and R^2 value from XGBRegressor.
 
 
