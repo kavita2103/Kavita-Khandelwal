@@ -1,6 +1,14 @@
 ## Kavita's Portfolio
 
-### Project 1: [Analysis: Avocado(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-analysis-r)
+### Project 1: [Analysis and ML(Regression Models): House prices(Python)](https://www.kaggle.com/code/kavitakhandelwal1234/analysis-house-prices-and-regression)
+For this example project I did data cleaning, analysis and visualization of data using the ‘Python’ programming language. 
+* I found some interesting insights about house prices that rely more on what factors.
+* I built Regression Models to know the relation between the home prices and other independent variables. 
+* Developed Pearson’s Correlation matrix using a heatmap to find out strong correlation.
+* Achieved the best result for Root Mean Squared Error and R^2 value from XGBRegressor.
+
+
+### Project 2: [Analysis: Avocado(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-analysis-r)
 For this example project I did cleaning, analysis and visualization of data using statistical programming language 'R'. I found some interesting insights which can make lives of consumers and producers easy.
 
 I analyzed data to gain insights into:
@@ -12,7 +20,7 @@ I analyzed data to gain insights into:
 5. Which season is best to buy avocado for consumers?
 6. How avocado sales and prices vary with different cities?
 
-### Project 2: [Analysis: Bellabeat Case Study(R)](https://www.kaggle.com/kavitakhandelwal1234/bellabeat-case-study-r)
+### Project 3: [Analysis: Bellabeat Case Study(R)](https://www.kaggle.com/kavitakhandelwal1234/bellabeat-case-study-r)
 For this example project I did cleaning, analysis and visualization of data using statistical programming language 'R'. I Focus on one of Bellabeat’s products and analyze smart device data to gain insight into how consumers are using their smart devices and by these insights I made a marketing strategy. 
 
 On the basis of the analysis, these are my recommendations to the marketing team members:
@@ -21,7 +29,7 @@ On the basis of the analysis, these are my recommendations to the marketing team
 3. Motivate people to do more exercise on Monday, Friday and Sunday.
 4. The most important thing is when they do advertisement for fitbit, they have to show that fitbit has reminder feature so customers can set their goals according to their health condition.
 
-### Project 3: [ML: Classification Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-ofall-classification-models-r)
+### Project 4: [ML: Classification Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-ofall-classification-models-r)
 Classification is a core technique in the fields of data science and machine learning that is used to predict the categories to which data should belong. 
 
 For this example project, I implemented the following Classification Models to predict the types of avocado using the statistical programming language 'R':
@@ -39,7 +47,7 @@ For this example project, I implemented the following Classification Models to p
 
 Using above models, I was able to get the best model to predict the type of avocado with highest accuracy 93.32% and Area Under the Curve(AUC) 98.25% for Generalized Boosted Model. Or, If User wants to go with the highest Sensitivity 95.18%, they can choose XGBoost.
 
-### Project 4: [ML: Regression Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-of-all-regression-models-r#Author:-Kavita-Khandelwal)
+### Project 5: [ML: Regression Models(R):](https://www.kaggle.com/kavitakhandelwal1234/avocado-comparison-of-all-regression-models-r#Author:-Kavita-Khandelwal)
 Regression analysis is a statistical technique that involves finding the relation between a dependent variable and one or more independent variables. 
 
 In this example project, I implemented the following Regression Models to know the relation between the avocado price and volume(total sale) using the statistical programming language 'R':
@@ -52,7 +60,7 @@ In this example project, I implemented the following Regression Models to know t
 
 We can choose the best model by lowest root mean squared value among all of these models. Here, I get best model for Conventional Avocado is XGBoost Model and for Organic Avocado is Linear Regression Model.
 
-### Project 5: [Forecasting(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-price-forecasting-r)
+### Project 6: [Forecasting(R)](https://www.kaggle.com/kavitakhandelwal1234/avocado-price-forecasting-r)
 Time series forecasting is the method of exploring and analyzing time-series data recorded or collected over a set period of time. This technique is used to forecast values and make future predictions.
 
 In this example project, I implemented the following time series forecasting techniques using the statistical programming language 'R': 
@@ -64,7 +72,7 @@ In this example project, I implemented the following time series forecasting tec
 
 For this project, I Forecast organic and conventional avocado prices for next 12 months.
 
-### Project 6: [Titanic - Machine Learning from Disaster(Python):](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
+### Project 7: [Titanic - Machine Learning from Disaster(Python):](https://www.kaggle.com/kavitakhandelwal1234/titanic-notebook-solution)
 For this example project I did cleaning, analysis, visualization and classification using 'Python' programming language.
 
 The following Classification Models used to predict the survived people:
@@ -72,7 +80,7 @@ The following Classification Models used to predict the survived people:
  2. KNN/ K-Nearest Neighbors
  3. Random Forest
 
-### Project 7: [Covid-19 Vaccination(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/Covid-19VaccinationdatafromWHOandourworldindata_orgupto1042021/Dashboard1)
+### Project 8: [Covid-19 Vaccination(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/Covid-19VaccinationdatafromWHOandourworldindata_orgupto1042021/Dashboard1)
 In this project, I collected data from WHO (World Health Organization) site upto 10/4/2021 and then cleaned it in a spreadsheet.
 I used Tableau for data visualization. Key highlights:
 1. Used Text Tables to visualize Total vaccinated and fully vaccinated people.
@@ -81,7 +89,7 @@ I used Tableau for data visualization. Key highlights:
 5. Used Line Charts to visualize Monthly Vaccinations trend per continent. 
 
 
-### Project 8: [Avocado Analysis(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/AvocadoAnalysis_16337389953460/Dashboard1)
+### Project 9: [Avocado Analysis(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/AvocadoAnalysis_16337389953460/Dashboard1)
 For this project, I collected data from Kaggle site.
 I used Tableau for data visualization. Key highlights:
 1. Used Bubbles Chart to visualize Top 10 Cities Consumes the Most Avocados.
@@ -92,7 +100,7 @@ I used Tableau for data visualization. Key highlights:
 6. Used Bar Charts to visualize total avocado sales for each year.
 7. Used Bar Charts to visualize  percentage difference in total avocado sales from 2015.
 
-### Project 9: [World Happiness(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/WorldHappinessdatafromGoogleCareerCertificates/Dashboard4)
+### Project 10: [World Happiness(Tableau)](https://public.tableau.com/app/profile/kavita3687/viz/WorldHappinessdatafromGoogleCareerCertificates/Dashboard4)
 For this project, I collected data from Google Career Certificates.
 I used Tableau for data visualization. Key highlights:
 1. Used Geo Maps to visualize World Happiness rank and score for each country.
